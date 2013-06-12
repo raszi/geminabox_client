@@ -51,6 +51,4 @@ Simples!
 
 ## Licence
 
-Fork it, mod it, choose it, use it, make it better. All under the [do what the fuck you want to + beer/pizza public license][WTFBPPL].
-
-[WTFBPPL]: http://tomlea.co.uk/WTFBPPL.txt
+MIT license.
