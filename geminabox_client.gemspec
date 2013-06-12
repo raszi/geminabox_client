@@ -6,7 +6,7 @@ require 'geminabox_client/version'
 Gem::Specification.new do |spec|
   spec.name          = "geminabox_client"
   spec.version       = GeminaboxClient::VERSION
-  spec.authors       = ["István Karaszi"]
+  spec.authors       = ["KARASZI István"]
   spec.email         = ["github@spam.raszi.hu"]
   spec.description   = %q{Geminabox client}
   spec.summary       = %q{Client for a Geminabox project}
